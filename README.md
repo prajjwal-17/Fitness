@@ -32,20 +32,21 @@ A full-stack web application designed to help users stay consistent with a struc
 
 ## 📁 Project Structure
 
+```bash
 fitness-tracker/
 │
 ├── backend/
-│ ├── app.py
-│ ├── models.py
-│ ├── db.sqlite3
-│ └── requirements.txt
+│   ├── app.py
+│   ├── models.py
+│   ├── db.sqlite3
+│   └── requirements.txt
 │
 ├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ └── App.js
-│ └── package.json
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   └── App.js
+│   └── package.json
 │
 ├── README.md
 └── ...
