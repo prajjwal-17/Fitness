@@ -52,7 +52,8 @@ fitness-tracker/
 └── ...
 
 
----
+--
+```
 
 ## 🚀 Getting Started
 
