@@ -37,7 +37,6 @@ fitness-tracker/
 │
 ├── backend/
 │   ├── app.py
-│   ├── models.py
 │   ├── db.sqlite3
 │   └── requirements.txt
 │
